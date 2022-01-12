@@ -1,0 +1,40 @@
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe.config
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.pdb
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csprojAssemblyReference.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.BaoCao.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThu.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThuSP.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoUong.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form1.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form4.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Home.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.LichSuGiaoDich.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Properties.Resources.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csproj.GenerateResource.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csproj.CoreCompileInputs.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.exe
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.pdb
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.RutTien.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.fWelcome.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.May2.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe.config
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.pdb
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csprojAssemblyReference.cache
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.BaoCao.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThu.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThuSP.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoUong.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form1.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form4.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.fWelcome.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Home.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.LichSuGiaoDich.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.May2.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Properties.Resources.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.RutTien.resources
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csproj.GenerateResource.cache
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\maybannuoc.csproj.CoreCompileInputs.cache
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.exe
+E:\Đồ án MBN\Nhóm16_QL MáyBánNước_(Dương)-(Hưởng)-(Hoàn)\Chương Trình\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.pdb

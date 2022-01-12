@@ -1,0 +1,44 @@
+D:\Code Visual\đồ án11\đồ án11\bin\Debug\đồ án11.exe.config
+D:\Code Visual\đồ án11\đồ án11\bin\Debug\đồ án11.exe
+D:\Code Visual\đồ án11\đồ án11\bin\Debug\đồ án11.pdb
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ án11.csprojAssemblyReference.cache
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ_án11.Form1.resources
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ_án11.Properties.Resources.resources
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ án11.csproj.GenerateResource.cache
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ án11.csproj.CoreCompileInputs.cache
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ án11.exe
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ án11.pdb
+D:\Code Visual\đồ án11\đồ án11\obj\Debug\đồ_án11.fAdmin.resources
+D:\Code Visual\Test đồ án\đồ án11\bin\Debug\đồ án11.exe.config
+D:\Code Visual\Test đồ án\đồ án11\bin\Debug\đồ án11.exe
+D:\Code Visual\Test đồ án\đồ án11\bin\Debug\đồ án11.pdb
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ án11.csprojAssemblyReference.cache
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ_án11.fAdmin.resources
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ_án11.Form1.resources
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ_án11.Properties.Resources.resources
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ án11.csproj.GenerateResource.cache
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ án11.csproj.CoreCompileInputs.cache
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ án11.exe
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ án11.pdb
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ_án11.Form2.resources
+D:\Code Visual\Test đồ án\đồ án11\obj\Debug\đồ_án11.Form3.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe.config
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.exe
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\bin\Debug\đồ án11.pdb
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.csprojAssemblyReference.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.fAdmin.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form1.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form2.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form3.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Properties.Resources.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.csproj.GenerateResource.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.csproj.CoreCompileInputs.cache
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.exe
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ án11.pdb
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Form4.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.BaoCao.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThu.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoUong.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.Home.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.LichSuGiaoDich.resources
+D:\Code Visual\Đồ Án Máy Bán Nước\đồ án11\obj\Debug\đồ_án11.DoanhThuSP.resources
